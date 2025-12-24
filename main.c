@@ -1,5 +1,5 @@
-#include "word.c"
-#include "game.c"
+#include "word.h"
+#include "game.h"
 #include <time.h>
 
 
