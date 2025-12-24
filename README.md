@@ -10,7 +10,7 @@ anything
  * Structure code better
 
 * Introduce ncurses to display words 
-    - Maybe right TUI library?? that could be fun
+    - Maybe Write TUI library?? that could be fun
 
 * Could even have a GUI version (using raylib) 
 
