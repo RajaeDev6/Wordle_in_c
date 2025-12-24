@@ -1,0 +1,8 @@
+audio
+spare
+chair
+spoon
+radio
+chats
+table
+waste
