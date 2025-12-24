@@ -1,6 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
 #include "word.h"
 #include "game.h"
-#include <time.h>
 
 
 

@@ -11,6 +11,6 @@ typedef struct {
 
 Game *initGame(const char *wordlist_path);
 
-void startgame(Game *game);
+void StartGame(Game *game);
 
 #endif
