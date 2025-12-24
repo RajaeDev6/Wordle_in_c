@@ -1,0 +1,16 @@
+#include "word.c"
+#include "game.c"
+#include <time.h>
+
+
+
+int main() {
+
+	srand(time(NULL));
+
+	Game *game = initGame("wordlist.txt");
+
+	StartGame(game);
+
+	printf("\nGame end");
+}
